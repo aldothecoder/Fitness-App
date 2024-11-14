@@ -1,0 +1,44 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  background-image: url("/images/blue.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+select {
+  width: 200px;
+}
+
+.cch1 {
+  color: black;
+  align-self: center;
+}
+
+.form-group {
+  margin: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.form-group input {
+  border-radius: 5px;
+  height: 30px;
+}
+
+.cals-to-consume {
+  color: black;
+}
+
+.cals-to-consume-display {
+  background-color: gray;
+  border-radius: 5px;
+  border: 1px solid black; /* 1px width, solid style, black color */
+}

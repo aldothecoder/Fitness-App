@@ -1,0 +1,12 @@
+.all-workouts-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(176, 196, 209);
+}
+
+.steps-div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
