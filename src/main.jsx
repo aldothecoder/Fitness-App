@@ -5,7 +5,7 @@ import App from "./App.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter basename="/Fitness-App">
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </StrictMode>
