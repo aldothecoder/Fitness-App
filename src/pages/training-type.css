@@ -1,0 +1,15 @@
+.wt-container {
+  display: flex;
+  width: 100%;
+  height: auto;
+  padding: 30px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.container-holder {
+  display: flex;
+  flex-direction: column;
+  background-image: url("/images/black.webp");
+  background-size: contain;
+}

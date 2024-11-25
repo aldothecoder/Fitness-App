@@ -1,0 +1,58 @@
+.workouts-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  background-image: url("/images/workouts.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.whole {
+  margin: 75px;
+}
+
+h1 {
+  margin: 30px;
+}
+
+.weight-training {
+  background-image: url("/images/barbell.webp");
+}
+
+.training-card {
+  background-size: cover;
+  background-position: 50% 75%;
+  height: 150px;
+  width: 750px;
+  margin: 30px;
+  border-radius: 2rem;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.training-card:hover {
+  opacity: 0.9; /* Change opacity on hover */
+  transform: scale(1.05); /* Slightly zoom in on hover */
+  cursor: pointer; /* Change cursor to pointer */
+}
+
+.cardio {
+  background-image: url("/images/run.webp");
+}
+
+.mobility {
+  background-image: url("/images/splits.webp");
+}
+
+.training-method-title {
+  color: whitesmoke;
+}
+
+.method-link {
+  text-decoration: none;
+}
