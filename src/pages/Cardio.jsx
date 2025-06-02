@@ -3,31 +3,35 @@ import "./training-type.css";
 export default function Cardio() {
   const cards = [
     {
-      imageUrl: "/images/stair.webp",
+      imageUrl: "/Fitness-App/images/stair.webp",
       link: "/StairClimber",
       text: "Stair Climber",
     },
     {
-      imageUrl: "/images/swimming.webp",
+      imageUrl: "/Fitness-App/images/swimming.webp",
       link: "/Swimming",
       text: "Swimming",
     },
-    { imageUrl: "/images/cycling.webp", link: "/Cycling", text: "Cycling" },
+    {
+      imageUrl: "/Fitness-App/images/cycling.webp",
+      link: "/Cycling",
+      text: "Cycling",
+    },
   ];
 
   const cards2 = [
     {
-      imageUrl: "/images/boxing.webp",
+      imageUrl: "/Fitness-App/images/boxing.webp",
       link: "/Boxing",
       text: "Boxing",
     },
     {
-      imageUrl: "/images/running.webp",
+      imageUrl: "/Fitness-App/images/running.webp",
       link: "/Running",
       text: "Running",
     },
     {
-      imageUrl: "/images/jumproping.webp",
+      imageUrl: "/Fitness-App/images/jumproping.webp",
       link: "/JumpRoping",
       text: "Jump Roping",
     },

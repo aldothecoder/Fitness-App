@@ -31,7 +31,7 @@ export default function App() {
       <Navbar />
       <div className="p-container">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Fitness-App/" element={<Home />} />
           <Route path="/Workouts" element={<Workouts />} />
           <Route path="/CalorieCalculator" element={<CalorieCalculator />} />
           <Route path="/WeightTraining" element={<WeightTraining />} />

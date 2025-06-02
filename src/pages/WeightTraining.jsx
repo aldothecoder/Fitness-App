@@ -3,17 +3,17 @@ import "./training-type.css";
 export default function WeightTraining() {
   const cards = [
     {
-      imageUrl: "/images/bench-press.webp",
+      imageUrl: "/Fitness-App/images/bench-press.webp",
       link: "/BenchPress",
       text: "Bench Press",
     },
     {
-      imageUrl: "/images/squat.webp",
+      imageUrl: "/Fitness-App/images/squat.webp",
       link: "/BarbellSquat",
       text: "Barbell Squat",
     },
     {
-      imageUrl: "/images/biceps.webp",
+      imageUrl: "/Fitness-App/images/biceps.webp",
       link: "/BicepCurl",
       text: "Bicep Curls",
     },
@@ -21,17 +21,17 @@ export default function WeightTraining() {
 
   const cards2 = [
     {
-      imageUrl: "/images/tri2.webp",
+      imageUrl: "/Fitness-App/images/tri2.webp",
       link: "/CableTricepPulldowns",
       text: "Cable Tricep Pulldowns",
     },
     {
-      imageUrl: "/images/shoulder-press.webp",
+      imageUrl: "/Fitness-App/images/shoulder-press.webp",
       link: "/ShoulderPress",
       text: "Shoulder Press",
     },
     {
-      imageUrl: "/images/lunges4.webp",
+      imageUrl: "/Fitness-App/images/lunges4.webp",
       link: "/WeightedLunges",
       text: "Weighted Lunges",
     },
