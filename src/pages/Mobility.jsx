@@ -3,17 +3,17 @@ import "./training-type.css";
 export default function Mobility() {
   const cards = [
     {
-      imageUrl: "/images/butterflystretch.webp",
+      imageUrl: "/Fitness-App/images/butterflystretch.webp",
       link: "/ButterflyStretch",
       text: "Butterfly Stretch",
     },
     {
-      imageUrl: "/images/childspose.webp",
+      imageUrl: "/Fitness-App/images/childspose.webp",
       link: "/ChildsPose",
       text: "Child's Pose",
     },
     {
-      imageUrl: "/images/deepsquat.webp",
+      imageUrl: "/Fitness-App/images/deepsquat.webp",
       link: "/DeepSquat",
       text: "Deep Squat",
     },
@@ -21,17 +21,17 @@ export default function Mobility() {
 
   const cards2 = [
     {
-      imageUrl: "/images/hipcircles.webp",
+      imageUrl: "/Fitness-App/images/hipcircles.webp",
       link: "/HipCircles",
       text: "Hip Circles",
     },
     {
-      imageUrl: "/images/legswing.webp",
+      imageUrl: "/Fitness-App/images/legswing.webp",
       link: "/LegSwing",
       text: "Leg Swing",
     },
     {
-      imageUrl: "/images/spinaltwist.webp",
+      imageUrl: "/Fitness-App/images/spinaltwist.webp",
       link: "/SpinalTwist",
       text: "Spinal Twist",
     },

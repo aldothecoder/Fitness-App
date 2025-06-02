@@ -1,7 +1,7 @@
 .form-container {
   display: flex;
   flex-direction: column;
-  background-image: url("/images/blue.webp");
+  background-image: url("/images/backdrop2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
